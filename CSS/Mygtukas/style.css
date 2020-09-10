@@ -1,0 +1,20 @@
+div {
+    height: 20px;
+    margin: 5px;
+    text-align: center;
+}
+
+.block {
+    float: top;
+    width: 350px;
+    background: cyan;
+    display: inline-block;
+
+}
+
+.middle {
+    justify-content: center;
+    align-content: center;
+    height: 50px;
+
+}
