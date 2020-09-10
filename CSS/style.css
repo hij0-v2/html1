@@ -1,0 +1,14 @@
+div {
+    height: 150px;
+    width: 50px;
+    margin: 5px;
+}
+.left {
+    float: left;
+    background: red;
+}
+.right {
+    float: right;
+    background: cyan;
+}
+
